@@ -1,0 +1,136 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: black;
+}
+#header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+}
+#nav2 input{
+    width: 550px;
+    height: 40px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius:30px ;
+    background-color: black;
+    padding-left: 20px;
+    border: 1px solid gray;
+}
+#nav2 button{
+    width: 60px;
+    height: 42px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    border-top-right-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    background-color: rgb(34 34 34);
+    color: white;
+    font-weight: bolder;
+}
+#nav2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 200px;
+}
+#nav1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    width: 150px;
+   
+}
+
+#nav3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 150px;
+    margin-left: 400px;
+}
+#nav31 button{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: brown;
+    color: white;
+    border: none;
+    
+}
+#main{
+    display: flex;
+}
+#section{
+    width: 180px;
+    height: 200px;
+   
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#section div{
+    padding-left: 10px;
+    margin-top: 20px;
+}
+#div1{
+    width: 150px;
+    height: 20px;
+}
+#aside1{
+   height: 30px;
+ 
+    margin-top: 20px;
+}
+#aside1 span{
+    
+    color: white;
+    margin: 20px;
+    padding: 5px;
+    background-color: rgb(15, 15, 15);
+    border-radius: 10px;
+
+}
+
+#aside21{
+    display: flex;
+    
+    
+    width: 380px;
+    height: 60px;
+    
+}
+#img-2{
+    width: 30px;
+    height: 30px;
+     border-radius: 50%;
+     margin-right: 7px;
+}
+#text{
+    color: white;
+    
+
+}
+#text h3{
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#text p{
+    font-size: small;
+    color: gray;
+}
+#card{
+    margin: 20px;
+    padding: 5px;
+}
+#flex{
+    display: flex;
+}
+#gmail{
+
+}
